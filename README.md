@@ -4,12 +4,9 @@ FlyRail is a desktop-friendly travel booking website concept based on the provid
 
 ## Figma Design and Prototype
 
-Add your Figma links here:
 
-- **Figma Design:** [Open Figma Design](PASTE_FIGMA_DESIGN_LINK_HERE)
-- **Figma Prototype:** [Open Figma Prototype](PASTE_FIGMA_PROTOTYPE_LINK_HERE)
-
-Replace the two `PASTE_..._LINK_HERE` placeholders with the share URLs from Figma.
+- **Figma Design:** https://www.figma.com/design/mrwXqbH5cLkKwtwqbPPxTS/Flyrail?t=Tqkc4JtpzUAbPrbA-1
+- **Figma Prototype:** https://www.figma.com/proto/mrwXqbH5cLkKwtwqbPPxTS/Flyrail?t=tvKsa68xGn95YIWT-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=9-142&starting-point-node-id=9%3A142
 
 ## Pages and Sections
 
