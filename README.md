@@ -1,62 +1,59 @@
-# FlyRail – Travel Booking Website
+# 🚆 FlyRail – Travel Booking Website
 
-FlyRail is a desktop-friendly travel booking website concept based on the provided Figma design. It includes train and flight booking sections, destinations, passenger detail forms, and booking confirmation layouts.
+## About the Project
 
-## Figma Design and Prototype
+FlyRail is a travel booking website designed to make the train travel booking experience simple, convenient, and user-friendly.
 
+This project focuses on creating an attractive and easy-to-use interface where users can explore train travel options and access booking-related features.
+
+## 🎨 Figma UI/UX Design
+
+Our website design was created using Figma.
 
 - **Figma Design:** https://www.figma.com/design/mrwXqbH5cLkKwtwqbPPxTS/Flyrail?t=Tqkc4JtpzUAbPrbA-1
 - **Figma Prototype:** https://www.figma.com/proto/mrwXqbH5cLkKwtwqbPPxTS/Flyrail?t=tvKsa68xGn95YIWT-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=9-142&starting-point-node-id=9%3A142
 
-## Pages and Sections
+## 💻 Technologies Used
 
-1. Home page
-2. Train booking
-3. Flight booking
-4. Destinations
-5. Passenger details
-6. Booking confirmation
+- HTML5 – For website structure.
+- CSS3 – For styling and layout.
+- Bootstrap 5 – For responsive design and components.
+- JavaScript – For website functionality.
+- Figma – For UI/UX design and prototyping.
 
-## Technologies Used
+## 📂 Project Structure
 
-- HTML5
-- CSS3
-- Bootstrap 5
-- Bootstrap Icons
-
-## Project Structure
-
-```text
-FlyRail_Desktop_Website/
+FlyRail/
+│
 ├── index.html
 ├── style.css
+├── script.js
+├── images/
+│
 └── README.md
-```
 
-## How to Run
+## ✨ Features
 
-1. Download and extract the project ZIP.
-2. Open the folder in Visual Studio Code or another code editor.
-3. Open `index.html` in a browser, or run it with the Live Server extension.
-4. Keep `index.html` and `style.css` in the same folder.
+- User-friendly interface.
+- Attractive homepage.
+- Responsive website layout.
+- Travel booking interface.
+- Easy navigation between sections.
 
-## Features
+## 🚀 How to Run the Project
 
-- Full-width desktop-oriented layout
-- Responsive layout using Bootstrap
-- Train and flight journey cards
-- Destination cards
-- Passenger detail form layouts
-- Booking confirmation ticket layouts
-- Purple and white theme inspired by the Figma design
+1. Download or clone this repository.
+2. Open the project folder in VS Code.
+3. Open `index.html` in your browser.
+4. Explore the FlyRail website.
 
-## Notes
+## 👩‍💻 Project Team
 
-- This is a front-end demonstration project.
-- Forms and booking buttons are visual elements only; they are not connected to a real booking service, payment gateway, or database.
-- JavaScript is not used.
-- Internet access is required to load Bootstrap, Bootstrap Icons, Google Fonts, and external images.
+Developed as a college project by our team.
 
-## Author
+## 📌 Project Status
 
-Add your name here.
+Currently developed as an academic project.
+
+---
+**FlyRail – Making Your Journey Easier!** 🚆
